@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "State API",
   "main": "lib/index.js",
-  "author": "JorgeMRDev",
-  "license": "y",
-  "private": null
+  "repository": "jscomplete/state-api",
+  "author": "Samer Buna",
+  "license": "MIT"
 }
